@@ -4,8 +4,7 @@ Please introduce the game here.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo](https://youtu.be/gjniBsJ05wU).
-
+Please provide the YouTube link to your [Video Demo](https://youtu.be/d-E-d4Y-1RQ)
 ## Compilation Instructions
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
