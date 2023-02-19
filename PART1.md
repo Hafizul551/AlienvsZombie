@@ -23,7 +23,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 3. Power ups
 4. Obstacle (rock,pod)
 5. Try to make different zombie, different damage
-6. If users use different command other than (up,down, left,right) the system will said "invalid command"
+6. If users use different command other than (up,down, left,right) the system will not respond
 7. Battlemode
 
 ## Additional Features
